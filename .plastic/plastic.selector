@@ -1,0 +1,3 @@
+rep "DarkRiseV1@karachevigor21@cloud"
+  path "/"
+    smartbranch "/main/develop_shamrov"
